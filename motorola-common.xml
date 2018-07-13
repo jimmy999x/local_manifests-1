@@ -7,8 +7,10 @@
   <project path="device/motorola/msm8953-common" name="android_device_motorola_msm8953-common" remote="mc" />
   <project path="device/motorola/potter" name="android_device_motorola_potter" remote="mc" />
   <project path="device/motorola/cedric" name="android_device_motorola_cedric" remote="mc" />
+  <project path="device/motorola/montana" name="android_device_motorola_montana" remote="mc" />
   <project path="vendor/motorola/msm8953-common" name="proprietary_vendor_motorola_msm8953-common" remote="mc" />
   <project path="vendor/motorola/potter" name="proprietary_vendor_motorola_potter" remote="mc" />
   <project path="vendor/motorola/cedric" name="proprietary_vendor_motorola_cedric" remote="mc" />
+  <project path="vendor/motorola/montana" name="proprietary_vendor_motorola_montana" remote="mc" />
   <project path="kernel/motorola/msm8953-common" name="android_kernel_motorola_msm8953-common" remote="mc" />
 </manifest>
