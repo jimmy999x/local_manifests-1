@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="mc"
            fetch="ssh://git@github.com/Motorola-Common/"
-           revision="lineage-15.1-64" />
+           revision="aosp-8.1" />
 
   <project path="device/motorola/msm8953-common" name="android_device_motorola_msm8953-common" remote="mc" />
   <project path="device/motorola/potter" name="android_device_motorola_potter" remote="mc" />
