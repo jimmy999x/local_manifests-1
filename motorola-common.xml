@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="github"
+  <remote  name="kalil"
 	   fetch="ssh://git@github.com/Kalil-Devices/"
 	   revision="caf-9.0" />
  <remote  name="lineage15"
 	   fetch="ssh://git@github.com/LineageOS/"
 	   revision="lineage-15.1" />
 
-<project path="kernel/motorola/msm8953-common" name="android_kernel_motorola_msm8953-common" remote="github"/>
-<project path="device/motorola/cedric" name="android_device_motorola_cedric" remote="github"/>
-<project path="vendor/motorola/cedric" name="android_vendor_motorola_cedric" remote="github" />
-<project path="vendor/motorola/potter" name="android_vendor_motorola_cedric" remote="github"/>
+<project path="kernel/motorola/msm8953-common" name="android_kernel_motorola_msm8953-common" remote="kalil"/>
+<project path="device/motorola/cedric" name="android_device_motorola_cedric" remote="kalil"/>
+<project path="vendor/motorola/potter" name="android_vendor_motorola_cedric" remote="kalil"/>
 <project path="hardware/lineage/telephony" name="android_hardware_lineage_telephony" remote="lineage15"/>
 
 </manifest>
