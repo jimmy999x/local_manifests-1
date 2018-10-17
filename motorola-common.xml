@@ -7,7 +7,7 @@
 	   fetch="https://www.github.com/LineageOS/"
 	   revision="lineage-15.1" />
 
-<project path="kernel/motorola/msm8953-common" name="android_kernel_motorola_msm8953-common" remote="kalil"/>
+<project path="kernel/motorola/msm8953" name="android_kernel_motorola_msm8953-common" remote="kalil"/>
 <project path="device/motorola/cedric" name="device_motorola_cedric" remote="kalil"/>
 <project path="vendor/motorola/potter" name="vendor_motorola_cedric" remote="kalil"/>
 <project path="hardware/lineage/telephony" name="android_hardware_lineage_telephony" remote="lineage15"/>
